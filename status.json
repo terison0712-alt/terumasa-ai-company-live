@@ -1,1 +1,1 @@
-{"updated_at":"2026-09-08T22:08:26+09:00","agents":{"見積AI リオ":{"status":"待機","progress":25},"チェックAI エル":{"status":"待機","progress":0},"営業AI カレン":{"status":"待機","progress":0},"経理AI ノア":{"status":"待機","progress":0},"サポートAI モモ":{"status":"待機","progress":0}},"case_count":1,"done_count":0}
+{"updated_at":"2026-09-08T22:12:00+09:00","agents":{"見積AI リオ":{"status":"確認待ち","progress":90},"チェックAI エル":{"status":"待機","progress":0},"営業AI カレン":{"status":"待機","progress":0},"経理AI ノア":{"status":"待機","progress":0},"サポートAI モモ":{"status":"待機","progress":0}},"case_count":1,"done_count":0}
